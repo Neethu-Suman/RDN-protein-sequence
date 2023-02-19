@@ -83,7 +83,7 @@ This paper presents Cascaded Feature Learning Model (CFLM) for predicting protei
 1. Position-Specific Scoring Matrix (PSSM) and Position-Specific Frequency Matrix(PSFM) features obtained using DeepMSA algorithm
 
 "psssm_psfm.py" can be used to find the PSSM and PSFM of the datasets. 
-The "SAMPLE.align" is the sample align file we obtained using DeepMSA algorithm. 
+The "SAMPLE.align" is the sample align file we obtained using DeepMSA algorithm.
 The "SAMPLE.align_pssm.xlsx" and "SAMPLE.align_psfm.xlsx"shows the PSSM and PSFM 
 
 2. Solvent accessibility features
@@ -99,8 +99,8 @@ The "SAMPLE.align_pssm.xlsx" and "SAMPLE.align_psfm.xlsx"shows the PSSM and PSFM
 "Sample_pp.xlsx" shows the the Physicochemical properties of a protein sequnce
 
 Training
-"
 
+## Conclusion 
 
 
 
